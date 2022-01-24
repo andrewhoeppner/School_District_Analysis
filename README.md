@@ -15,6 +15,7 @@ The top 5 schools based on overall passing rate, starting from best to worst, ar
 *Wilson High School
 *Pena High School
 *Wright High School
+Also seen with the code i used in this link:   https://github.com/andrewhoeppner/School_District_Analysis/blob/main/top_5_schools.png
 ###Bottom 5 Schools
 The bottom 5 schools based on overall passing rate, starting from worst to best, are:
 *Rodriguez High School
@@ -22,6 +23,7 @@ The bottom 5 schools based on overall passing rate, starting from worst to best,
 *Huang High School
 *Hernandez High School
 *Johnson High School
+Also seen with the code i used in this link:   https://github.com/andrewhoeppner/School_District_Analysis/blob/main/bottom_5_schools.png
 Maria had me remove some data from the analysis due to evidence of acaemic dishonesty. After removing said data i have found, it made no difference in the results in terms of top 5 or bottom 5. Althrough it did boost Thomas High School % passing math, % passing reading, and % overall passing enough that they passed up a couple other schools on the list. But with Thomas High School and the schools it may have passed due to data corrections being in the middle of the data set it really didnt affect anything at all in the data set in terms of the finall conclusion.
 ##Summary
 Althrough the data correction changed Thomas High Schools % passing math, % passing reading, and % overall passing, the top 5 and bottom 5 schools stayed strong in there placements.

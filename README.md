@@ -1,5 +1,8 @@
 # School_District_Analysis
-## The purpose of this analysis is to help Maria show high-level snapshot of the district's key metrics, presented in a table format. Also give an overview of the key metrics for each school, presented in a table format. The key metrics being:
+
+## Purpose
+
+The purpose of this analysis is to help Maria show high-level snapshot of the district's key metrics, presented in a table format. Also give an overview of the key metrics for each school, presented in a table format. The key metrics being:
 * Top 5 and bottom 5 performing schools, based on the overall passing rate
 * The average math score received by students in each grade level at each school
 * The average reading score received by students in each grade level at each school

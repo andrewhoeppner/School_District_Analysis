@@ -39,6 +39,6 @@ Also seen in the image below:
 
 Maria had me remove some data from the analysis due to evidence of acaemic dishonesty. After removing said data i have found, it made no difference in the results in terms of top 5 or bottom 5. Althrough it did boost Thomas High School % passing math, % passing reading, and % overall passing enough that they passed up a couple other schools on the list. The school Thomas High School passed in ranks were in the middle of the data set and therefore didnt affect the top 5 or bottom 5 schools.
 
-##Summary
+## Summary
 
 Althrough the data correction changed Thomas High Schools % passing math, % passing reading, and % overall passing, the top 5 and bottom 5 schools stayed strong in there placements.
